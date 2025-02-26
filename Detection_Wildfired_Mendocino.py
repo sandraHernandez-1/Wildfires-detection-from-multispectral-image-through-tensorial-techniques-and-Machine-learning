@@ -2,11 +2,10 @@
 """
 Created on Fri Oct 22 20:45:45 2021
 
-@author:  Ing. Sandra Paola Hernandez Lopez 
+@author:  M.I. Sandra Paola Hernandez Lopez 
 Universidad Politecnica de Juventino Rosas
 Maestria en ingenieria Sistemas Inteligentes
-Proyecto: Deteccion de incendios en imagenes multiespectrales 
-         utilizando tecnicas de tensores e inteligencia artificial
+Proyect: Wildfires detection from multispectral image through tensorial techniques and artificial intelligence
 """
 
 import numpy as np
