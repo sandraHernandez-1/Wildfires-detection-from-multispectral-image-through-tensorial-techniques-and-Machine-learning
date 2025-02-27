@@ -142,10 +142,6 @@ print(classification_report(y_test1,y_pred1))
 
 fin = time.time()
 print(fin-inicio)
-#%%distribution probability
-probabilidades=clf.predict_proba(x_train)
-probabilidades1=clf.predict_proba(x_test)
-print(probabilidades1[3])
 
 
 #%%
