@@ -8,4 +8,5 @@ The case study is carried out through the use of Landsat 8 multispectral images,
 
 
 
-<img width="430" height="349" alt="wildfired" src="https://github.com/user-attachments/assets/d8880a2a-2dd9-418c-8dac-e6f393100a1e" />
+
+<img width="487" height="487" alt="original_wildfire_left" src="https://github.com/user-attachments/assets/beb3a2d0-6b83-4f5c-89cf-1a39cabf8824" />
