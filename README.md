@@ -7,4 +7,5 @@ steps, our integrated approach aims to enhance feature extraction by applying al
 The case study is carried out through the use of Landsat 8 multispectral images, extracted from the Mendocinos, Los Angeles USA wildfire on the date of April 04, 2018. For the experiments, a new image of 256 x 256 (region of interest) was obtained from the original image of 7500 x 7530 pixels, the area is mainly composed of wildfires, smoke, water and vegetation pixels. https://github.com/sandraHernandez-1/Wildfires-detection-from-multispectral-image-through-tensorial-techniques-and-artificial-inte/blob/0154c7aa36bf567bce673b567cc2073d86bdb87d/Wildfire_Mendocinos.rar
 
 
-<img width="512" height="512" alt="fire_left" src="https://github.com/user-attachments/assets/4d5481d9-6482-4f6d-96e7-4d24d07f3d52" />
+
+<img width="430" height="349" alt="wildfired" src="https://github.com/user-attachments/assets/d8880a2a-2dd9-418c-8dac-e6f393100a1e" />
